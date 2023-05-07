@@ -26,6 +26,7 @@ Install Appium plugin for execute driver.
 
 Start appium server
 
+
 `% appium -pa /wd/hub --use-plugins execute-driver --allow-cors`
 
 Execute robot framework
@@ -36,7 +37,5 @@ Inspect element by using [Appium Inspector](https://github.com/appium/appium-ins
 
 ---
 
-![ezgif-1-a3351672c2](https://user-images.githubusercontent.com/1191403/220284972-b84f948f-7d7c-4960-9038-f48909845071.gif)
-
-
+![ezgif-1-fd61d83c8c](https://user-images.githubusercontent.com/1191403/236659278-2bc23ba2-a7fa-47e9-b602-6216dfa257af.gif)
 
